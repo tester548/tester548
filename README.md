@@ -27,8 +27,6 @@
 
 # About me #
 
-Hello, everyone! I'm a beginner programmer, 14 years old. I prefer to keep my identity private. I develop Telegram bots, engage in test automation, and explore new areas in programming.
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=tester548)](https://github.com/tester548/github-profile-trophy)
 
 # Contact me #
